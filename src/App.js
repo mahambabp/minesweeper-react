@@ -4,7 +4,7 @@ import Board from "./components/Board";
 
 
 function Help(){
-  return window.open("")
+  return window.open("https://github.com/mahambabp/minesweeper-react/blob/master/README.md");
 }
 
 function App() {
