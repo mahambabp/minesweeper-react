@@ -5,9 +5,6 @@ import { revealed } from "../util/reveal";
 import Modal from "./Modal";
 import Timer from "./Timer";
 
-
-
-
 const Board = () => {
   const [grid, setGrid] = useState([]);
   const [nonMineCount, setNonMineCount] = useState(0);
@@ -69,8 +66,7 @@ const Board = () => {
 
   return (
     <div>
-      <Timer 
-      />
+      <Timer />
       <div
         style={{
           display: "flex",
