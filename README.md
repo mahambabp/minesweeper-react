@@ -33,5 +33,5 @@ Famous game implemented in ReactJs tehnology.
 
 ## Instalation
 
-1. clone this repository: $ git clone https://github.com/mahambabp/minesweeper-react.git
+1. clone this repository: $ git clone https://github.com/mahambabp/minesweeper-react
 2. install required modules: $ npm install
